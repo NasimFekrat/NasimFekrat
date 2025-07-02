@@ -21,9 +21,6 @@
   </a>
 </p>
 <p align="center">
-  <a align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NasimFekrat&" alt="NasimFekrat" height="300" width="450" /> </a>
-</p>
-<p align="center">
   <a align="center" href="https://github.com/NasimFekrat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="300" width="450" />
   </a>
