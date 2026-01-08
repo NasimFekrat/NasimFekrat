@@ -83,3 +83,18 @@ Web Applications, Analytics Dashboards & Data Pipelines
 </a>
 
 </p>
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=NasimFekrat&show_icons=true&theme=dark&hide_border=true"
+    alt="Nasim Fekrat GitHub stats"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasimFekrat&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+    height="170"
+  />
+</p>
