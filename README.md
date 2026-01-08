@@ -14,18 +14,6 @@
 <a href="https://linkedin.com/in/nasim-fekrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasim-fekrat" height="30" width="40" /></a>
 </p>
 
-<h1 align="center"> &#x1f4c8; GitHub Stats </h1>
-<p align="center">
-  <a href="https://github.com/NasimFekrat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NasimFekrat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nasim's GitHub Stats" height="300" width="450" />
-  </a>
-</p>
-<p align="center">
-  <a align="center" href="https://github.com/NasimFekrat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="300" width="450" />
-  </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
