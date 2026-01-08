@@ -84,9 +84,12 @@ Web Applications, Analytics Dashboards & Data Pipelines
 
 </p>
 
-## 📊 GitHub Stats
+<h1 align="center"> 📊 GitHub Stats </h1>
 
+<div align="center">
+  
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NasimFekrat&theme=dark)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NasimFekrat&theme=dark)
 
+</div>
