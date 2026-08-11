@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nasim Fekrat</h1>
 <h3 align="center">
-Technical Data Analyst & Full Stack Developer<br/>
-Web Applications, Analytics Dashboards & Data Pipelines
+Data Scientist | Data Analytics | Python | SQL | Power BI<br/>
+Turning complex, real-world data into insights, analytical tools, and solutions people can actually use.
 </h3>
 
-- 🔭 Currently working on the **Eglinton Crosstown LRT (ECLRT) Expansion Project** at Crosslinx Transit Solutions  
-- 📊 Building **data-driven dashboards**, analytics tools, and internal web applications  
+- 🔭 Currently working as a **Data Scientist I at Hitachi Rail**, applying data science and statistical analysis to transit and mobility data.  
+- 📊 Working with **Python, SQL, statistical analysis, data preprocessing, visualization, and operational data** to uncover trends, patterns, anomalies, and performance insights.
+- 🏗️ Previously supported the **Eglinton Crosstown LRT** at Crosslinx Transit Solutions, where I built Power BI dashboards, data pipelines, time-series visualizations, and custom web-based analytics tools for infrastructure and asset performance.
+- 💻 My background also includes **full-stack development**, allowing me to take data solutions beyond analysis and build interactive dashboards and web applications using HTML, CSS, JavaScript, PHP, APIs, and MySQL.
 - 👨‍💻 Projects available at: <a href="https://github.com/NasimFekrat" target="_blank">github.com/NasimFekrat</a>  
 - 📫 Reach me at: **fekratnasim@gmail.com**  
 - 📄 Experience & background: <a href="https://www.linkedin.com/in/nasim-fekrat" target="_blank">LinkedIn</a>
