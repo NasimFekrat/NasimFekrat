@@ -7,7 +7,7 @@ Web Applications, Analytics Dashboards & Data Pipelines
 - 🔭 Currently working on the **Eglinton Crosstown LRT (ECLRT) Expansion Project** at Crosslinx Transit Solutions  
 - 📊 Building **data-driven dashboards**, analytics tools, and internal web applications  
 - 👨‍💻 Projects available at: <a href="https://github.com/NasimFekrat" target="_blank">github.com/NasimFekrat</a>  
-- 📫 Reach me at: **nasimfekrat89@gmail.com**  
+- 📫 Reach me at: **fekratnasim@gmail.com**  
 - 📄 Experience & background: <a href="https://www.linkedin.com/in/nasim-fekrat" target="_blank">LinkedIn</a>
 
 <h3 align="left">Connect with me:</h3>
